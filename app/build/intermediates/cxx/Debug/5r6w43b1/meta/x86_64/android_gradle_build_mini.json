@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "ninja",
+      "-C",
+      "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/Debug/5r6w43b1/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "ninja",
+    "-C",
+    "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/Debug/5r6w43b1/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ncnnyolox-Debug-x86_64": {
+      "artifactName": "ncnnyolox",
+      "buildCommandComponents": [
+        "ninja",
+        "-C",
+        "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/Debug/5r6w43b1/x86_64",
+        "ncnnyolox"
+      ],
+      "abi": "x86_64",
+      "output": "/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/Debug/5r6w43b1/obj/x86_64/libncnnyolox.so",
+      "runtimeFiles": []
+    }
+  }
+}

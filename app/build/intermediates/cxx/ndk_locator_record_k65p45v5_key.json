@@ -1,0 +1,9 @@
+{
+  "ndkVersionFromDsl": "23.0.7599858",
+  "ndkDirProperty": "/home/dyp/Android/Sdk/ndk/android-ndk-r23",
+  "sdkFolder": "/home/dyp/Android/Sdk",
+  "sideBySideNdkFolderNames": [
+    "android-ndk-r23",
+    "23.0.7599858"
+  ]
+}

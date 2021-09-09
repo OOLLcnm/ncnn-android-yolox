@@ -1,0 +1,7 @@
+Executable : ninja
+arguments : 
+-C
+/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/cmake/debug/x86_64
+ncnnyolox
+jvmArgs : 
+

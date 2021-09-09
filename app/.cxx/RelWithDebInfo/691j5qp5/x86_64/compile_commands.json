@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86_64",
+  "command": "/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --gcc-toolchain=/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/include/ncnn -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include/opencv  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o -c /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/yoloxncnn.cpp",
+  "file": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/yoloxncnn.cpp"
+},
+
+{
+  "directory": "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86_64",
+  "command": "/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --gcc-toolchain=/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/include/ncnn -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include/opencv  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles/ncnnyolox.dir/yolox.cpp.o -c /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/yolox.cpp",
+  "file": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/yolox.cpp"
+},
+
+{
+  "directory": "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86_64",
+  "command": "/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --gcc-toolchain=/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/include/ncnn -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include -isystem /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include/opencv  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles/ncnnyolox.dir/ndkcamera.cpp.o -c /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ndkcamera.cpp",
+  "file": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ndkcamera.cpp"
+}
+]

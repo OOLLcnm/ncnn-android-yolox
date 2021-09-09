@@ -1,0 +1,3 @@
+/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/Debug/5r6w43b1/x86/CMakeFiles/rebuild_cache.dir
+/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/Debug/5r6w43b1/x86/CMakeFiles/ncnnyolox.dir
+/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/Debug/5r6w43b1/x86/CMakeFiles/edit_cache.dir

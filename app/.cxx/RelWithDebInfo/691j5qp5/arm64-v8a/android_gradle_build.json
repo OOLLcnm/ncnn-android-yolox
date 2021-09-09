@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "ninja",
+      "-C",
+      "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "ninja",
+    "-C",
+    "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ncnnyolox-RelWithDebInfo-arm64-v8a": {
+      "buildCommandComponents": [
+        "ninja",
+        "-C",
+        "/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/arm64-v8a",
+        "ncnnyolox"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "ncnnyolox",
+      "output": "/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/RelWithDebInfo/691j5qp5/obj/arm64-v8a/libncnnyolox.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

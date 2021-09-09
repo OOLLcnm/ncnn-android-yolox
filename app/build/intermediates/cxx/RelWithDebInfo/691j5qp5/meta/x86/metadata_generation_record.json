@@ -1,0 +1,1346 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1292837279
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/android_gradle_build.json due to:",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1060637463
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 196190277
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -517162557
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2081753018
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86\u0027",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -729019246
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86\u0027",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 443328774
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /usr/bin/cmake\narguments : \n-H/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DANDROID_PLATFORM\u003dandroid-24\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/home/dyp/Android/Sdk/ndk/android-ndk-r23\n-DCMAKE_ANDROID_NDK\u003d/home/dyp/Android/Sdk/ndk/android-ndk-r23\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/RelWithDebInfo/691j5qp5/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/RelWithDebInfo/691j5qp5/obj/x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86\n-GNinja\njvmArgs : \n\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2140817575
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -160891528
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1338007470
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2053392079
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1350791698
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni\",\n  \"buildDirectory\": \"/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 292069022
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -935932269
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/dyp/Android/Sdk/ndk/android-ndk-r23\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/dyp/Android/Sdk/ndk/android-ndk-r23\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/RelWithDebInfo/691j5qp5/obj/x86\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/RelWithDebInfo/691j5qp5/obj/x86\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelWithDebInfo\"\n  ]\n}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -734492342
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android-legacy.toolchain.cmake:416 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake:55 (include)\\n  /usr/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt:1 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1924111400
+  },
+  {
+    "level_": 2,
+    "message_": "CMake Warning at /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake:55 (include)\n  /usr/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt:1 (project)\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1556088810
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 331185815
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1040127857
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android-legacy.toolchain.cmake:416 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake:55 (include)\\n  /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1534018356
+  },
+  {
+    "level_": 2,
+    "message_": "CMake Warning at /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android-legacy.toolchain.cmake:416 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake:55 (include)\n  /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\n  /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1655036326
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1110273007
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -121640673
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 389519591
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -468881685
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 66885859
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 935823046
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -795792326
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info - done",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 639935362
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2000848250
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1431636018
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1198955504
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -128141970
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2034735134
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 405072959
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features - done",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1239725623
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -991661577
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -652525585
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 353638998
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2075868737
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -296120953
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 431505771
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 576808291
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1710299405
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1863092666
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info - done",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 798541570
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1630427142
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -29713586
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1753036423
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1091708481
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2037432642
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -558596168
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 906485439
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features - done",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -140631369
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenCV: /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android (found version \\\"3.4.15\\\") found components:  core imgproc \",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1272677623
+  },
+  {
+    "level_": 0,
+    "message_": "Found OpenCV: /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android (found version \"3.4.15\") found components:  core imgproc ",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -936112583
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 615313379
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1903315619
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -989556744
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP_C: -fopenmp\u003dlibomp  \",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1973154743
+  },
+  {
+    "level_": 0,
+    "message_": "Found OpenMP_C: -fopenmp\u003dlibomp  ",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 805176641
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 412538189
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP_CXX: -fopenmp\u003dlibomp  \",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1013132809
+  },
+  {
+    "level_": 0,
+    "message_": "Found OpenMP_CXX: -fopenmp\u003dlibomp  ",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -174440191
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP: TRUE   \",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 283188003
+  },
+  {
+    "level_": 0,
+    "message_": "Found OpenMP: TRUE   ",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 560376091
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 452594222
+  },
+  {
+    "level_": 0,
+    "message_": "Looking for pthread.h",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1092045734
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":418,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 668826704
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h - found\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 33366057
+  },
+  {
+    "level_": 0,
+    "message_": "Looking for pthread.h - found",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -329853663
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2000061385
+  },
+  {
+    "level_": 0,
+    "message_": "Looking for pthread_create",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1634170367
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":438,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2109952966
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create - found\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -526223054
+  },
+  {
+    "level_": 0,
+    "message_": "Looking for pthread_create - found",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2102946182
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found Threads: TRUE  \",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1235469959
+  },
+  {
+    "level_": 0,
+    "message_": "Found Threads: TRUE  ",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 545508977
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found Vulkan: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so  \",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1686841778
+  },
+  {
+    "level_": 0,
+    "message_": "Found Vulkan: /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so  ",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -620439814
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1442203494
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1214977705
+  },
+  {
+    "level_": 0,
+    "message_": "Configuring done",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1360388239
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1709002278
+  },
+  {
+    "level_": 0,
+    "message_": "{\"type\":\"compute\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 396459451
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1325046392
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -947720637
+  },
+  {
+    "level_": 0,
+    "message_": "Generating done",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1612191242
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1548409685
+  },
+  {
+    "level_": 0,
+    "message_": "{\"type\":\"cmakeInputs\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 467694492
+  },
+  {
+    "level_": 0,
+    "message_": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/usr/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"/usr/share/cmake-3.10/Modules/CMakeNinjaFindMake.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/usr/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/usr/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/usr/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"/usr/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"/usr/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/usr/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/share/cmake-3.10/Modules/FindOpenMP.cmake\",\"/usr/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/share/cmake-3.10/Modules/FindThreads.cmake\",\"/usr/share/cmake-3.10/Modules/CheckLibraryExists.cmake\",\"/usr/share/cmake-3.10/Modules/CheckSymbolExists.cmake\",\"/usr/share/cmake-3.10/Modules/CheckIncludeFile.cmake\",\"/usr/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"/usr/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/share/cmake-3.10/Modules/FindVulkan.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake\",\"/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android-legacy.toolchain.cmake\",\"/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/platforms.cmake\",\"/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/compiler_id.cmake\",\"/home/dyp/Android/Sdk/ndk/android-ndk-r23/build/cmake/android.toolchain.cmake\",\"opencv-mobile-3.4.15-android/sdk/native/jni/OpenCVConfig-version.cmake\",\"opencv-mobile-3.4.15-android/sdk/native/jni/OpenCVConfig.cmake\",\"opencv-mobile-3.4.15-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake\",\"opencv-mobile-3.4.15-android/sdk/native/jni/abi-x86/OpenCVModules.cmake\",\"opencv-mobile-3.4.15-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/ncnn/ncnnConfig.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/OSDependentTargets.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/OSDependentTargets-release.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/OGLCompilerTargets.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/OGLCompilerTargets-release.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/glslangTargets.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/glslangTargets-release.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/SPIRVTargets.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/SPIRVTargets-release.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/ncnn/ncnn.cmake\",\"ncnn-20210720-android-vulkan/x86/lib/cmake/ncnn/ncnn-release.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/FindOpenMP/OpenMPTryFlag.c\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c\",\"../../../.cxx/RelWithDebInfo/691j5qp5/x86/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp\"]}],\"cmakeRootDirectory\":\"/usr/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni\",\"type\":\"reply\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 517050567
+  },
+  {
+    "level_": 0,
+    "message_": "{\"type\":\"codemodel\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 166540914
+  },
+  {
+    "level_": 0,
+    "message_": "{\"configurations\":[{\"name\":\"RelWithDebInfo\",\"projects\":[{\"buildDirectory\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86\",\"name\":\"ncnnyolox\",\"sourceDirectory\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni\",\"targets\":[{\"artifacts\":[\"/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/cxx/RelWithDebInfo/691j5qp5/obj/x86/libncnnyolox.so\"],\"buildDirectory\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions\",\"defines\":[\"ncnnyolox_EXPORTS\"],\"includePath\":[{\"isSystem\":true,\"path\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/include/ncnn\"},{\"isSystem\":true,\"path\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include\"},{\"isSystem\":true,\"path\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/jni/include/opencv\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"yoloxncnn.cpp\",\"yolox.cpp\",\"ndkcamera.cpp\"]}],\"fullName\":\"libncnnyolox.so\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libncnn.a /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/staticlibs/x86/libopencv_core.a /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/staticlibs/x86/libopencv_imgproc.a -lcamera2ndk -lmediandk -fopenmp -static-openmp /home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libglslang.a /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libSPIRV.a /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libMachineIndependent.a /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libOGLCompiler.a /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libOSDependent.a -pthread /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/lib/libGenericCodeGen.a -landroid -ljnigraphics /home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/opencv-mobile-3.4.15-android/sdk/native/staticlibs/x86/libopencv_core.a -ldl -lm -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"ncnnyolox\",\"sourceDirectory\":\"/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni\",\"sysroot\":\"/home/dyp/Android/Sdk/ndk/android-ndk-r23/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1954807619
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1769406767
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/dyp/common/dyp/ncnn-android-yolox/app/.cxx/RelWithDebInfo/691j5qp5/x86/metadata_generation_command.txt",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2123735903
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -587487445
+  }
+]

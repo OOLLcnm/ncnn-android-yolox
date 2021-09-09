@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dyp/common/dyp/ncnn-android-yolox/app/build/intermediates/merged_res/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/dyp/common/dyp/ncnn-android-yolox/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,103,-1",
+                        "endLines": "-1,8,-1",
+                        "endColumns": "-1,19,-1",
+                        "endOffsets": "-1,283,-1"
+                    },
+                    "to": {
+                        "startLines": "2,6,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,349",
+                        "endLines": "5,11,12",
+                        "endColumns": "19,19,47",
+                        "endOffsets": "159,344,392"
+                    }
+                }
+            ]
+        }
+    ]
+}

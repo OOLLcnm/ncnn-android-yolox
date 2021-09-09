@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+ext {
+    ndkVersion = '23.0.7599858'
+}
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion '31.0.0'
+
+    defaultConfig {
+        applicationId "com.tencent.ncnnyolox"
+        archivesBaseName = "$applicationId"
+
+        minSdkVersion 24
+    }
+    externalNativeBuild {
+        cmake {
+            version "3.10.2"
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+
+    dependencies {
+        //noinspection GradleCompatible
+        implementation 'com.android.support:support-v4:24.0.0'
+    }
+    ndkVersion '23.0.7599858'
+}
